@@ -1,0 +1,14 @@
+
+{"status":true,
+  "message":"تم تسجيل الدخول بنجاح",
+  "data":{
+    "id":5508,
+    "name":"abdelrahman mohamed",
+    "email":"abdelrahman_1@gmail.com",
+    "phone":"011359633",
+    "image":"https://student.valuxapps.com/storage/uploads/users/Uh0BKroBp5_1635472870.jpeg",
+    "points":0,
+    "credit":0,
+    "token":"mFdqgGGof0MX07wac1ho7YoNdGWR4TsmKVUcgpPcnE5GsZof9y7a2W2ljM1gbFz8ZGKzWT",
+  }
+}
